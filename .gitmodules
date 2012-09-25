@@ -9,7 +9,7 @@
 	url = git://github.com/wgibbs/vim-irblack.git
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
-	url = git://github.com/wgibbs/vim-irblack.git
+    url = git://github.com/tpope/vim-markdown.git
 [submodule "bundle/jellybeans.vim"]
 	path = bundle/jellybeans.vim
 	url = git://github.com/nanotech/jellybeans.vim.git
