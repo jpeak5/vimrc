@@ -38,4 +38,7 @@ syntax on
 filetype plugin indent on
 
 "https://github.com/wgibbs/vim-irblack
-:colorscheme ir_black 
+:colorscheme  desert
+
+
+set tags=tags;/
